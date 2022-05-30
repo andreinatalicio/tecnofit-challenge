@@ -4,7 +4,7 @@
   "scripts": {
     "cy:run": "npx cypress run",
     "cy:open": "npx cypress open",
-    "newman:run": "newman run tecnofit-challenge.postman_collection.json"
+    "newman:run": "npx newman run tecnofit-challenge.postman_collection.json"
   },
   "devDependencies": {
     "@bahmutov/cy-api": "^2.1.3",
