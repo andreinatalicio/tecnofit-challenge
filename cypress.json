@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://reqres.in/api",
+  "video": false,
+  "screenshotOnRunFailure": true,
+  "retries": 1,
+  "watchForFileChanges": false,
+  "requestTimeout": 10000,
+  "defaultCommandTimeout": 10000
+}
