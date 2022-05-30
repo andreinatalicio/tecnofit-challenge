@@ -1,0 +1,8 @@
+# Node artifact files
+node_modules/
+dist/
+
+# Cypress generated files
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
